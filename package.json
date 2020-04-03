@@ -1,0 +1,20 @@
+{
+  "name": "image-gallery-node-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xGodThunder/image-gallery-node-react.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xGodThunder/image-gallery-node-react/issues"
+  },
+  "homepage": "https://github.com/xGodThunder/image-gallery-node-react#readme"
+}
